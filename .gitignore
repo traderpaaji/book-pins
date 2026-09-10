@@ -1,0 +1,8 @@
+# The public repo serves IMAGES ONLY - that is all Pinterest ever fetches.
+# These stay local: the CSV carries the whole keyword and copy strategy, the ledger
+# and manifest are build state, and the sample sheet is for review, not for the web.
+batch_*.csv
+ledger.json
+manifest.json
+SAMPLE_SHEET.png
+BOARDS.txt
